@@ -1,0 +1,17 @@
+/* Estilos personalizados para o DateTimePicker */
+.bootstrap-datetimepicker-widget {
+    font-family: Arial, sans-serif;
+}
+
+.bootstrap-datetimepicker-widget table td {
+    padding: 5px;
+}
+
+.form-control {
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.navbar-brand {
+    font-size: 20px;
+}
